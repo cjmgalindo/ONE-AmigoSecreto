@@ -40,5 +40,7 @@ function sortearAmigo() {
         let campeon = friends[indice]
 
         ganador.innerHTML = campeon
+    } else {
+        alert("La lista de amigos esta vacia")
     }
 }
