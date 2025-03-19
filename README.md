@@ -6,6 +6,8 @@
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **Trello**
+
 
 ## Funcionalidades
 - Agregar nombres de participantes.
